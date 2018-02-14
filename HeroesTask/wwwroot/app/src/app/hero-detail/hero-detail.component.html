@@ -1,0 +1,9 @@
+<ng-template [ngIf]="hero">
+  <h3>{{hero.name}} detail</h3>
+  <span id="hero-id">id: {{hero.id}}</span>
+  <div id="editHero">
+    Jméno: <input type="text" [(ngModel)]="hero.name" (keydown.enter)="updateName()" />
+    <input type="button" (click)="updateName()" value="Uložit" />
+  </div>
+  <input type="button" (click)="back()" value="Zpět" />
+</ng-template>

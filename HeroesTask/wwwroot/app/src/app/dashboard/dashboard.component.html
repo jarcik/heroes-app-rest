@@ -1,0 +1,9 @@
+<h3>Top 5 hrdinů</h3>
+
+<div id="topList">
+  <div *ngFor="let hero of topHeroes">
+    <div>
+      <a class="nav square" [routerLink]="['/hero', hero.id]">{{hero.name}}</a>
+    </div>
+  </div>
+</div>

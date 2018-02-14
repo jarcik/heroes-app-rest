@@ -1,0 +1,8 @@
+C:\Users\Jaroslava\source\repos\HeroesTask\HeroesTask\bin\Debug\netcoreapp2.0\HeroesTask.deps.json
+C:\Users\Jaroslava\source\repos\HeroesTask\HeroesTask\bin\Debug\netcoreapp2.0\HeroesTask.runtimeconfig.json
+C:\Users\Jaroslava\source\repos\HeroesTask\HeroesTask\bin\Debug\netcoreapp2.0\HeroesTask.runtimeconfig.dev.json
+C:\Users\Jaroslava\source\repos\HeroesTask\HeroesTask\bin\Debug\netcoreapp2.0\HeroesTask.dll
+C:\Users\Jaroslava\source\repos\HeroesTask\HeroesTask\obj\Debug\netcoreapp2.0\HeroesTask.csprojResolveAssemblyReference.cache
+C:\Users\Jaroslava\source\repos\HeroesTask\HeroesTask\obj\Debug\netcoreapp2.0\HeroesTask.csproj.CoreCompileInputs.cache
+C:\Users\Jaroslava\source\repos\HeroesTask\HeroesTask\obj\Debug\netcoreapp2.0\HeroesTask.AssemblyInfoInputs.cache
+C:\Users\Jaroslava\source\repos\HeroesTask\HeroesTask\obj\Debug\netcoreapp2.0\HeroesTask.AssemblyInfo.cs

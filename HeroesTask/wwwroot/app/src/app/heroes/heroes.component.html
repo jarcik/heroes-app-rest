@@ -1,0 +1,10 @@
+<div id="newHero">
+  <input #name type="text" (keydown.enter)="add(name)" />
+  <input type="button" (click)="add(name)" value="Přidat hrdinu" />
+</div>
+<div id="heroList">
+  <div *ngFor="let hero of heroes">
+    <a class="nav" [routerLink]="['/hero', hero.id]" title="Přejít na detail hrdiny">{{hero.name}}</a>
+    <span class="delete" (click)="delete(hero.id)" title="Odstranit hrdinu">x</span>
+  </div>
+</div>
